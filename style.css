@@ -1,12 +1,13 @@
 h1 {
     color: rgb(255, 0, 0);
+     text-align: center;
 }
 
 .block {
     background-color: rgb(241, 221, 221);
     border-style: solid;
     border-width: 2px;
-    border-radius: 30px;
+    border-radius: 10px;
     border-color: rgb(0, 0, 0);
     padding-left: 15px;
     padding-right: 15px;
@@ -15,11 +16,28 @@ h1 {
     margin-left: 5%;
     margin-right: 5%;
 }
+h2 {
+    color: rgb(0, 0, 0); 
+    text-align: center; 
+    background-color: rgba(15, 107, 150, 0.5);
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
 
 
+
+ }
 img {
     width: 50%;
     margin: auto;
     display: block;
 
 }
+p{
+    background-color: rgb(241,221,221) ;
+  
+   
+    
